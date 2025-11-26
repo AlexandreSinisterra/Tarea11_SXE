@@ -1,5 +1,6 @@
 # Tarea11_SXE
 
+
 ## 1. Preparar el IDE
 
 He probado a instalar PyCharm, ya que lo tenemos en los ordenadores de clase. Es un IDE para Python y el tema con GitHub es muy parecido a IntelliJ. Lo he descargado desde [PyCharm Download](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows).
