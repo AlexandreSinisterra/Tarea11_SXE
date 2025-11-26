@@ -21,6 +21,7 @@ ejemplo de funcionamiento de bts
 Escribimos el docker-compose.yml:
 
 ```
+
 services:
   db:
     image: postgres:17
